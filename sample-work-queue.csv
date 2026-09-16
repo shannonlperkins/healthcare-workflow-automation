@@ -1,0 +1,81 @@
+Request_ID,Synthetic_Record_ID,Request_Type,Source_Channel,Priority,Received_Date,Owner_Queue,Assigned_Owner,Due_Date,Status,First_Touch_Hours,Handling_Minutes,Escalation_Type,Human_Review_Required,Classification_Confidence,Completed_Date,Overdue
+WQ-1001,SYN-5001,Prior Authorization,Portal,High,2026-08-03 12:15,Authorization Team,T. Brooks,2026-08-04 12:15,Completed,8.5,4.9,None,No,0.96,2026-08-03 17:30,No
+WQ-1002,SYN-5002,Referral,Phone,Standard,2026-08-20 11:45,Referral Team,R. Allen,2026-08-22 11:45,Completed,10.7,4.6,None,No,0.94,2026-08-20 17:15,No
+WQ-1003,SYN-5003,Administrative Patient Message,Fax,Standard,2026-08-13 12:15,Patient Support,E. Scott,2026-08-14 12:15,Completed,1.8,6.1,None,No,0.96,2026-08-13 22:42,No
+WQ-1004,SYN-5004,Referral,Internal Message,Standard,2026-08-26 15:00,Referral Team,M. Cole,2026-08-28 15:00,Completed,11.7,5.6,None,No,0.92,2026-08-27 06:36,No
+WQ-1005,SYN-5005,Documentation Follow-up,Email,Standard,2026-08-21 11:00,Clinical Support,C. Hall,2026-08-23 11:00,Completed,12.0,5.2,Human Review,Yes,0.68,2026-08-21 22:58,No
+WQ-1006,SYN-5006,Documentation Follow-up,Portal,Standard,2026-08-08 13:30,Clinical Support,C. Hall,2026-08-10 13:30,Completed,8.7,3.8,None,No,0.91,2026-08-08 19:15,No
+WQ-1007,SYN-5007,Records Request,Phone,Standard,2026-08-08 15:45,Records,K. Lewis,2026-08-11 15:45,Completed,9.7,5.5,None,No,0.98,2026-08-09 00:37,No
+WQ-1008,SYN-5008,Referral,Fax,Standard,2026-08-28 13:45,Referral Team,M. Cole,2026-08-30 13:45,Completed,3.4,3.1,None,No,0.9,2026-08-29 02:43,No
+WQ-1009,SYN-5009,Medication Workflow — Administrative,Internal Message,High,2026-08-07 12:15,Clinical Support,N. King,2026-08-07 12:15,Completed,10.6,3.3,None,No,0.94,2026-08-07 15:15,No
+WQ-1010,SYN-5010,Scheduling Follow-up,Email,Standard,2026-08-19 15:00,Scheduling,J. Green,2026-08-20 15:00,Completed,9.0,5.1,None,No,0.97,2026-08-20 04:05,No
+WQ-1011,SYN-5011,Administrative Patient Message,Portal,Standard,2026-08-22 09:45,Patient Support,B. Ward,2026-08-23 09:45,Completed,13.6,4.6,None,No,0.99,2026-08-22 21:50,No
+WQ-1012,SYN-5012,Billing Question,Phone,Standard,2026-08-27 13:00,Billing Support,D. Hill,2026-08-29 13:00,Completed,13.4,4.4,None,No,0.9,2026-08-28 10:16,No
+WQ-1013,SYN-5013,Billing Question,Fax,Standard,2026-08-19 10:00,Billing Support,D. Hill,2026-08-21 10:00,Completed,2.6,4.6,None,No,0.91,2026-08-21 17:46,Yes
+WQ-1014,SYN-5014,Referral,Internal Message,Standard,2026-08-22 13:45,Referral Team,M. Cole,2026-08-24 13:45,Completed,3.7,3.3,Human Review,Yes,0.81,2026-08-22 21:02,No
+WQ-1015,SYN-5015,Prior Authorization,Email,High,2026-08-05 15:00,Authorization Team,T. Brooks,2026-08-06 15:00,Completed,2.2,3.3,None,No,0.94,2026-08-05 20:42,No
+WQ-1016,SYN-5016,Administrative Patient Message,Portal,Standard,2026-08-09 16:15,Patient Support,B. Ward,2026-08-10 16:15,Completed,6.4,4.7,None,No,0.92,2026-08-10 01:29,No
+WQ-1017,SYN-5017,Prior Authorization,Phone,High,2026-08-10 11:00,Authorization Team,T. Brooks,2026-08-11 11:00,Completed,8.4,6.1,None,No,0.94,2026-08-10 13:49,No
+WQ-1018,SYN-5018,Prior Authorization,Fax,High,2026-08-04 13:00,Authorization Team,S. Patel,2026-08-05 13:00,Completed,3.4,4.6,None,No,0.91,2026-08-04 16:51,No
+WQ-1019,SYN-5019,Medication Workflow — Administrative,Internal Message,High,2026-08-10 15:45,Clinical Support,N. King,2026-08-10 15:45,Completed,5.3,2.8,None,No,0.89,2026-08-10 18:04,No
+WQ-1020,SYN-5020,Prior Authorization,Email,High,2026-08-04 14:30,Authorization Team,T. Brooks,2026-08-05 14:30,Completed,3.1,5.6,None,No,0.89,2026-08-04 22:46,No
+WQ-1021,SYN-5021,Administrative Patient Message,Portal,Standard,2026-08-08 12:45,Patient Support,B. Ward,2026-08-09 12:45,Completed,30.1,5.7,None,No,0.98,2026-08-08 22:19,No
+WQ-1022,SYN-5022,Referral,Phone,Standard,2026-08-05 11:15,Referral Team,M. Cole,2026-08-07 11:15,Completed,12.7,5.3,None,No,0.93,2026-08-05 16:52,No
+WQ-1023,SYN-5023,Referral,Fax,Standard,2026-08-15 12:45,Referral Team,M. Cole,2026-08-17 12:45,Completed,2.6,3.7,None,No,0.96,2026-08-16 03:29,No
+WQ-1024,SYN-5024,Referral,Internal Message,Standard,2026-08-26 13:00,Referral Team,R. Allen,2026-08-28 13:00,Completed,1.3,7.0,Human Review,Yes,0.82,2026-08-27 02:10,No
+WQ-1025,SYN-5025,Scheduling Follow-up,Email,Standard,2026-08-05 09:15,Scheduling,J. Green,2026-08-06 09:15,Completed,8.3,4.9,None,No,0.98,2026-08-05 20:27,No
+WQ-1026,SYN-5026,Documentation Follow-up,Portal,Standard,2026-08-11 11:30,Clinical Support,N. King,2026-08-13 11:30,Completed,6.7,4.6,None,No,0.92,2026-08-12 09:56,No
+WQ-1027,SYN-5027,Prior Authorization,Phone,High,2026-08-03 15:00,Authorization Team,S. Patel,2026-08-04 15:00,Completed,12.4,5.2,Human Review,Yes,0.68,2026-08-03 19:12,No
+WQ-1028,SYN-5028,Billing Question,Fax,Standard,2026-08-22 16:00,Billing Support,D. Hill,2026-08-24 16:00,Completed,13.2,3.8,None,No,0.94,2026-08-22 20:57,No
+WQ-1029,SYN-5029,Prior Authorization,Internal Message,High,2026-08-06 16:15,Authorization Team,S. Patel,2026-08-07 16:15,Completed,3.2,4.0,None,No,0.95,2026-08-07 01:05,No
+WQ-1030,SYN-5030,Referral,Email,Standard,2026-08-05 14:30,Referral Team,M. Cole,2026-08-07 14:30,Completed,2.7,3.9,Human Review,Yes,0.65,2026-08-06 02:13,No
+WQ-1031,SYN-5031,Administrative Patient Message,Portal,Standard,2026-08-20 08:00,Patient Support,E. Scott,2026-08-21 08:00,Completed,11.8,4.0,Human Review,Yes,0.82,2026-08-20 11:47,No
+WQ-1032,SYN-5032,Billing Question,Phone,Standard,2026-08-14 08:30,Billing Support,D. Hill,2026-08-16 08:30,Completed,5.3,4.2,None,No,0.91,2026-08-14 22:49,No
+WQ-1033,SYN-5033,Administrative Patient Message,Fax,Standard,2026-08-22 10:15,Patient Support,E. Scott,2026-08-23 10:15,Completed,12.4,6.1,Manual Escalation,No,0.99,2026-08-22 16:54,No
+WQ-1034,SYN-5034,Administrative Patient Message,Internal Message,Standard,2026-08-28 11:30,Patient Support,B. Ward,2026-08-29 11:30,Completed,12.3,4.8,None,No,0.96,2026-08-29 01:31,No
+WQ-1035,SYN-5035,Records Request,Email,Standard,2026-08-09 15:30,Records,K. Lewis,2026-08-12 15:30,Completed,3.5,4.0,None,No,0.97,2026-08-10 01:51,No
+WQ-1036,SYN-5036,Prior Authorization,Portal,High,2026-08-27 12:30,Authorization Team,S. Patel,2026-08-28 12:30,Completed,13.2,3.6,None,No,0.92,2026-08-27 16:06,No
+WQ-1037,SYN-5037,Billing Question,Phone,Standard,2026-08-08 12:00,Billing Support,P. Young,2026-08-10 12:00,Completed,6.4,5.0,None,No,0.93,2026-08-10 16:42,Yes
+WQ-1038,SYN-5038,Referral,Fax,Standard,2026-08-25 14:00,Referral Team,R. Allen,2026-08-27 14:00,Completed,5.4,4.5,None,No,0.97,2026-08-25 17:32,No
+WQ-1039,SYN-5039,Documentation Follow-up,Internal Message,Standard,2026-08-22 13:00,Clinical Support,N. King,2026-08-24 13:00,Completed,9.5,3.8,None,No,0.91,2026-08-23 03:11,No
+WQ-1040,SYN-5040,Records Request,Email,Standard,2026-08-16 14:15,Records,K. Lewis,2026-08-19 14:15,Completed,4.6,5.9,None,No,0.91,2026-08-16 22:33,No
+WQ-1041,SYN-5041,Documentation Follow-up,Portal,Standard,2026-08-17 15:45,Clinical Support,C. Hall,2026-08-19 15:45,Completed,9.4,4.2,None,No,0.94,2026-08-18 07:22,No
+WQ-1042,SYN-5042,Prior Authorization,Phone,High,2026-08-29 11:30,Authorization Team,T. Brooks,2026-08-30 11:30,Completed,1.1,5.9,None,No,0.9,2026-08-30 03:16,No
+WQ-1043,SYN-5043,Prior Authorization,Fax,High,2026-08-17 14:15,Authorization Team,S. Patel,2026-08-18 14:15,Completed,3.8,4.4,None,No,0.92,2026-08-18 02:45,No
+WQ-1044,SYN-5044,Prior Authorization,Internal Message,High,2026-08-27 14:15,Authorization Team,S. Patel,2026-08-28 14:15,Completed,1.2,4.4,None,No,0.99,2026-08-27 19:44,No
+WQ-1045,SYN-5045,Prior Authorization,Email,High,2026-08-17 10:45,Authorization Team,S. Patel,2026-08-18 10:45,Completed,30.3,3.3,None,No,0.99,2026-08-17 19:49,No
+WQ-1046,SYN-5046,Medication Workflow — Administrative,Portal,High,2026-08-08 15:45,Clinical Support,N. King,2026-08-08 15:45,Completed,10.8,3.5,None,No,0.91,2026-08-08 18:45,No
+WQ-1047,SYN-5047,Records Request,Phone,Standard,2026-08-11 15:00,Records,K. Lewis,2026-08-14 15:00,Completed,4.8,4.0,None,No,0.91,2026-08-11 23:56,No
+WQ-1048,SYN-5048,Scheduling Follow-up,Fax,Standard,2026-08-25 11:00,Scheduling,A. Reed,2026-08-26 11:00,Completed,6.1,4.4,None,No,0.92,2026-08-25 15:53,No
+WQ-1049,SYN-5049,Administrative Patient Message,Internal Message,Standard,2026-08-15 08:45,Patient Support,B. Ward,2026-08-16 08:45,Completed,10.7,6.0,None,No,0.98,2026-08-15 16:36,No
+WQ-1050,SYN-5050,Records Request,Email,Standard,2026-08-18 11:30,Records,K. Lewis,2026-08-21 11:30,Completed,9.5,2.5,None,No,0.88,2026-08-19 13:26,No
+WQ-1051,SYN-5051,Scheduling Follow-up,Portal,Standard,2026-08-29 15:15,Scheduling,A. Reed,2026-08-30 15:15,Completed,8.5,4.3,None,No,0.94,2026-08-29 23:15,No
+WQ-1052,SYN-5052,Medication Workflow — Administrative,Phone,High,2026-08-08 08:30,Clinical Support,N. King,2026-08-08 08:30,Completed,5.1,4.1,None,No,0.9,2026-08-08 11:30,No
+WQ-1053,SYN-5053,Billing Question,Fax,Standard,2026-08-27 14:30,Billing Support,D. Hill,2026-08-29 14:30,Completed,14.0,3.6,None,No,0.93,2026-08-28 09:41,No
+WQ-1054,SYN-5054,Referral,Internal Message,Standard,2026-08-27 08:15,Referral Team,R. Allen,2026-08-29 08:15,Completed,3.7,5.7,None,No,0.88,2026-08-27 20:40,No
+WQ-1055,SYN-5055,Prior Authorization,Email,High,2026-08-21 11:45,Authorization Team,T. Brooks,2026-08-22 11:45,Completed,8.7,6.1,None,No,0.96,2026-08-22 00:38,No
+WQ-1056,SYN-5056,Scheduling Follow-up,Portal,Standard,2026-08-12 09:00,Scheduling,A. Reed,2026-08-13 09:00,Completed,5.9,4.1,None,No,0.94,2026-08-12 21:00,No
+WQ-1057,SYN-5057,Prior Authorization,Phone,High,2026-08-21 11:00,Authorization Team,T. Brooks,2026-08-22 11:00,Completed,11.2,4.2,None,No,0.91,2026-08-21 20:27,No
+WQ-1058,SYN-5058,Documentation Follow-up,Fax,Standard,2026-08-05 16:30,Clinical Support,N. King,2026-08-07 16:30,Completed,13.5,4.4,Human Review,Yes,0.73,2026-08-06 08:28,No
+WQ-1059,SYN-5059,Medication Workflow — Administrative,Internal Message,High,2026-08-25 10:45,Clinical Support,N. King,2026-08-25 10:45,Completed,8.8,6.0,None,No,0.94,2026-08-25 13:45,No
+WQ-1060,SYN-5060,Billing Question,Email,Standard,2026-08-13 11:00,Billing Support,P. Young,2026-08-15 11:00,Completed,8.2,3.7,None,No,0.93,2026-08-14 03:42,No
+WQ-1061,SYN-5061,Documentation Follow-up,Portal,Standard,2026-08-03 15:30,Clinical Support,N. King,2026-08-05 15:30,Completed,5.1,5.6,None,No,0.9,2026-08-03 23:34,No
+WQ-1062,SYN-5062,Referral,Phone,Standard,2026-08-19 11:00,Referral Team,R. Allen,2026-08-21 11:00,Completed,9.8,3.4,None,No,0.92,2026-08-20 03:12,No
+WQ-1063,SYN-5063,Medication Workflow — Administrative,Fax,High,2026-08-17 08:00,Clinical Support,C. Hall,2026-08-17 08:00,Completed,4.6,3.5,None,No,0.92,2026-08-17 11:00,No
+WQ-1064,SYN-5064,Administrative Patient Message,Internal Message,Standard,2026-08-26 16:30,Patient Support,B. Ward,2026-08-27 16:30,Completed,3.9,3.9,None,No,0.93,2026-08-26 20:11,No
+WQ-1065,SYN-5065,Records Request,Email,Standard,2026-08-13 09:15,Records,K. Lewis,2026-08-16 09:15,In Progress,10.3,5.7,None,No,0.96,,No
+WQ-1066,SYN-5066,Billing Question,Portal,Standard,2026-08-06 11:30,Billing Support,D. Hill,2026-08-08 11:30,In Progress,10.1,4.3,None,No,0.9,,No
+WQ-1067,SYN-5067,Scheduling Follow-up,Phone,Standard,2026-08-11 08:00,Scheduling,J. Green,2026-08-12 08:00,In Progress,9.1,4.5,None,No,0.96,,No
+WQ-1068,SYN-5068,Referral,Fax,Standard,2026-08-21 12:45,Referral Team,R. Allen,2026-08-23 12:45,In Progress,3.9,4.0,Manual Escalation,No,0.92,,No
+WQ-1069,SYN-5069,Medication Workflow — Administrative,Internal Message,High,2026-08-06 09:45,Clinical Support,C. Hall,2026-08-06 09:45,In Progress,2.5,5.4,None,No,0.94,,No
+WQ-1070,SYN-5070,Prior Authorization,Email,High,2026-08-10 09:45,Authorization Team,T. Brooks,2026-08-11 09:45,In Progress,11.0,2.2,None,No,0.97,,No
+WQ-1071,SYN-5071,Administrative Patient Message,Portal,Standard,2026-08-17 15:30,Patient Support,B. Ward,2026-08-18 15:30,In Progress,8.2,6.9,None,No,0.99,,Yes
+WQ-1072,SYN-5072,Prior Authorization,Phone,High,2026-08-27 11:15,Authorization Team,T. Brooks,2026-08-28 11:15,In Progress,2.8,5.4,None,No,0.89,,No
+WQ-1073,SYN-5073,Prior Authorization,Fax,High,2026-08-08 08:45,Authorization Team,S. Patel,2026-08-09 08:45,In Progress,0.9,4.3,None,No,0.95,,No
+WQ-1074,SYN-5074,Medication Workflow — Administrative,Internal Message,High,2026-08-05 11:30,Clinical Support,C. Hall,2026-08-05 11:30,Open,6.2,5.3,None,No,0.95,,No
+WQ-1075,SYN-5075,Records Request,Email,Standard,2026-08-23 10:30,Records,K. Lewis,2026-08-26 10:30,Open,11.2,3.0,None,No,0.89,,No
+WQ-1076,SYN-5076,Billing Question,Portal,Standard,2026-08-17 09:45,Billing Support,P. Young,2026-08-19 09:45,Open,28.0,3.5,None,No,0.96,,No
+WQ-1077,SYN-5077,Prior Authorization,Phone,High,2026-08-22 08:45,Authorization Team,T. Brooks,2026-08-23 08:45,Open,1.7,6.3,None,No,0.95,,No
+WQ-1078,SYN-5078,Referral,Fax,Standard,2026-08-27 12:00,Referral Team,M. Cole,2026-08-29 12:00,Open,12.9,4.0,None,No,0.9,,No
+WQ-1079,SYN-5079,Scheduling Follow-up,Internal Message,Standard,2026-08-21 14:45,Scheduling,A. Reed,2026-08-22 14:45,Open,5.0,3.6,None,No,0.93,,No
+WQ-1080,SYN-5080,Documentation Follow-up,Email,Standard,2026-08-16 15:30,Clinical Support,C. Hall,2026-08-18 15:30,Open,6.6,2.8,None,No,0.92,,No
