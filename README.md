@@ -98,6 +98,14 @@ The fictional workflow handles:
 - billing questions;
 - non-clinical medication workflow tasks.
 
+## Featured Extension: Radiology SLA & Capacity Risk Monitor
+
+A separate proof-of-concept inside this repository applies the same exception-management philosophy to teleradiology operations.
+
+The **Radiology SLA & Capacity Risk Monitor** combines client turnaround-time requirements, radiologist credentialing, modality eligibility, active workload, and study age to rank operational risk and surface only the cases that may need ambassador intervention.
+
+See: [radiology-sla-capacity-monitor/README.md](radiology-sla-capacity-monitor/README.md)
+
 ## Project Files
 
 - `workflow-diagram.md` — current-state and future-state workflow design
