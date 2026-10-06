@@ -1,0 +1,5 @@
+client,sla_stat_minutes,sla_urgent_minutes,sla_routine_minutes,critical_results_method,notes
+Metro General,30,60,480,Call ordering clinician,24/7 ED coverage
+Prairie Medical,20,45,360,Secure message plus call for criticals,Neuro STAT target
+River Valley,30,90,720,Call charge nurse,Overnight prelims required
+Summit Health,45,120,720,Documented phone call,Outpatient-heavy mix
