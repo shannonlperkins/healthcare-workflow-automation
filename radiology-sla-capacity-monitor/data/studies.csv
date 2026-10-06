@@ -1,0 +1,13 @@
+study_id,client,priority,modality,age_minutes
+ST-1001,Metro General,STAT,CT,24
+ST-1002,Prairie Medical,STAT,MRI,16
+ST-1003,River Valley,Urgent,CT,54
+ST-1004,Summit Health,Routine,XR,48
+ST-1005,Metro General,Urgent,XR,51
+ST-1006,River Valley,STAT,MRI,28
+ST-1007,Prairie Medical,Routine,CT,205
+ST-1008,Summit Health,STAT,US,31
+ST-1009,Metro General,Routine,CT,265
+ST-1010,Prairie Medical,Urgent,XR,38
+ST-1011,River Valley,Routine,MRI,490
+ST-1012,Summit Health,Urgent,MRI,83
