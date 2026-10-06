@@ -1,0 +1,7 @@
+radiologist,active,modalities,credentialed_clients,current_workload,max_workload
+Dr. Adams,True,CT;XR,Metro General;Prairie Medical,7,10
+Dr. Chen,True,CT;MRI;XR,Metro General;River Valley;Summit Health,9,10
+Dr. Rivera,True,CT;MRI,Prairie Medical;River Valley,4,9
+Dr. Patel,True,XR;US,Metro General;Summit Health,3,8
+Dr. Brooks,False,CT;MRI;XR,Metro General;Prairie Medical;River Valley;Summit Health,0,10
+Dr. Nguyen,True,MRI;US,River Valley;Summit Health,7,8
