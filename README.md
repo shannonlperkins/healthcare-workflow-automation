@@ -104,6 +104,8 @@ A separate proof-of-concept inside this repository applies the same exception-ma
 
 The **Radiology SLA & Capacity Risk Monitor** combines client turnaround-time requirements, radiologist credentialing, modality eligibility, active workload, and study age to rank operational risk and surface only the cases that may need ambassador intervention.
 
+**Phase 2 adds predictive coverage planning:** hourly seasonal demand forecasts learned from synthetic history, a shared-reader capacity simulation, client/modality SLA-risk estimates, and staffing/volume scenario comparisons. The dashboard lets a leader test reserve-reader coverage before escalating a predicted backlog. All outcomes remain synthetic and simulated.
+
 See: [radiology-sla-capacity-monitor/README.md](radiology-sla-capacity-monitor/README.md)
 
 ## Project Files
